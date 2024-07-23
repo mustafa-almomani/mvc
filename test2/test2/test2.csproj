@@ -261,6 +261,7 @@
     <Content Include="Views\Shared\login.cshtml" />
     <Content Include="Views\login\home.cshtml" />
     <Content Include="Views\login\serves.cshtml" />
+    <Content Include="Views\login\ShowInformation.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
