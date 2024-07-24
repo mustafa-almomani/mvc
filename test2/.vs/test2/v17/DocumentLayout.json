@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D61B57D-A756-449E-A397-0A5E039147FA}|test2\\test2.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D61B57D-A756-449E-A397-0A5E039147FA}|test2\\test2.csproj|solutionrelative:test2\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D61B57D-A756-449E-A397-0A5E039147FA}|test2\\test2.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\views\\login\\homeafter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D61B57D-A756-449E-A397-0A5E039147FA}|test2\\test2.csproj|solutionrelative:test2\\views\\login\\homeafter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D61B57D-A756-449E-A397-0A5E039147FA}|test2\\test2.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\views\\shared\\login2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D61B57D-A756-449E-A397-0A5E039147FA}|test2\\test2.csproj|solutionrelative:test2\\views\\shared\\login2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D61B57D-A756-449E-A397-0A5E039147FA}|test2\\test2.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D61B57D-A756-449E-A397-0A5E039147FA}|test2\\test2.csproj|solutionrelative:test2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D61B57D-A756-449E-A397-0A5E039147FA}|test2\\test2.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\views\\login\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2D61B57D-A756-449E-A397-0A5E039147FA}|test2\\test2.csproj|solutionrelative:test2\\views\\login\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D61B57D-A756-449E-A397-0A5E039147FA}|test2\\test2.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\views\\login\\showinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2D61B57D-A756-449E-A397-0A5E039147FA}|test2\\test2.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\views\\login\\showinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2D61B57D-A756-449E-A397-0A5E039147FA}|test2\\test2.csproj|solutionrelative:test2\\views\\login\\showinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D61B57D-A756-449E-A397-0A5E039147FA}|test2\\test2.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D61B57D-A756-449E-A397-0A5E039147FA}|test2\\test2.csproj|solutionrelative:test2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,38 +43,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "homeafter.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\Views\\login\\homeafter.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\login\\homeafter.cshtml",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\Views\\login\\homeafter.cshtml",
+              "RelativeToolTip": "test2\\Views\\login\\homeafter.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T15:07:07.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login2.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\Views\\Shared\\login2.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\Shared\\login2.cshtml",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\Views\\Shared\\login2.cshtml",
+              "RelativeToolTip": "test2\\Views\\Shared\\login2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T15:04:36.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\Views\\login\\Index.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\Views\\login\\Index.cshtml",
+              "RelativeToolTip": "test2\\Views\\login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:40:56.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ShowInformation.cshtml",
               "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\Views\\login\\ShowInformation.cshtml",
               "RelativeDocumentMoniker": "test2\\Views\\login\\ShowInformation.cshtml",
               "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\Views\\login\\ShowInformation.cshtml",
               "RelativeToolTip": "test2\\Views\\login\\ShowInformation.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAD0AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-23T17:43:01.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "loginController.cs",
               "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\Controllers\\loginController.cs",
               "RelativeDocumentMoniker": "test2\\Controllers\\loginController.cs",
               "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\Controllers\\loginController.cs",
               "RelativeToolTip": "test2\\Controllers\\loginController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAACEAAAAsAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T17:16:54.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "contactus.cshtml",
               "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\Views\\login\\contactus.cshtml",
               "RelativeDocumentMoniker": "test2\\Views\\login\\contactus.cshtml",
               "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\test2\\test2\\Views\\login\\contactus.cshtml",
               "RelativeToolTip": "test2\\Views\\login\\contactus.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAAVAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-23T17:13:00.058Z",
               "EditorCaption": ""

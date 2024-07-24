@@ -4,7 +4,7 @@
     Layout = "~/Views/Shared/login.cshtml";
 }
 
-<h2>ShowInformation</h2>
+@*<h2>ShowInformation</h2>
 
 <h2>EMAIL: @ViewBag.email</h2>
 
@@ -16,5 +16,54 @@
 
 <h2>city: @ViewBag.city</h2>
 <h2>Zip: @ViewBag.zip</h2>
-<h2>check: @ViewBag.check</h2>
 <h2>state: @ViewBag.select</h2>
+<h2>check: @ViewBag.check</h2>*@
+
+
+
+
+<div class="card-body">
+    <div class="table-responsive">
+        <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>EMAIL</th>
+                    <th>PASSWORD</th>
+                    <th>address</th>
+                    <th>address2</th>
+                    <th>city </th>
+                    <th>Zip</th>
+                    <th>state</th>
+                    <th>check</th>
+
+
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>EMAIL</th>
+                    <th>PASSWORD</th>
+                    <th>address</th>
+                    <th>address2</th>
+                    <th>city </th>
+                    <th>Zip</th>
+                    <th>state</th>
+                    <th>check</th>
+                </tr>
+            </tfoot>
+            <tbody>
+                <tr>
+                    <td>@ViewBag.email</td>
+                    <td>@ViewBag.password</td>
+                    <td>@ViewBag.address</td>
+                    <td>@ViewBag.address2</td>
+                    <td>@ViewBag.city</td>
+                    <td>@ViewBag.zip</td>
+                    <td>@ViewBag.select</td>
+                    <td>@ViewBag.check</td>
+                </tr>
+               
+            </tbody>
+        </table>
+    </div>
+</div>
