@@ -11,11 +11,13 @@ namespace test2.Controllers
         // GET: login
         public ActionResult Index (FormCollection form)
         {
+            Session["login"]= form["email"];
             string email = form["email"];
             string password = form["password"];
             if (email =="mustafa@gmail.com" && password== "123456")
             {
-                return View("homeafter");
+                Session["name"] = "0";
+                return View("home");
             }
 
             return View();
@@ -55,15 +57,13 @@ namespace test2.Controllers
         }
         public ActionResult home()
         {
+            Session["name"] = "1";
             return View();
         }
         public ActionResult serves()
         {
             return View();
         }
-        public ActionResult homeafter()
-        {
-            return View();
-        }
+      
     }
 }

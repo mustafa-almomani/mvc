@@ -22,8 +22,16 @@
                     <li>@Html.ActionLink("cuntact us ", "contactus", "login", new { area = "" }, new { @class = "nav-link active" })</li>
                     <li>@Html.ActionLink("about  ", "about", "login", new { area = "" }, new { @class = "nav-link active" })</li>
                     <li>@Html.ActionLink("serves  ", "serves", "login", new { area = "" }, new { @class = "nav-link active" })</li>
-                    <li>@Html.ActionLink("LOG in  ", "index", "login", new { area = "" }, new { @class = "nav-link active" })</li>
-
+                    @*<li>@Html.ActionLink("LOG in  ", "index", "login", new { area = "" }, new { @class = "nav-link active" })</li>*@
+                    @if (Session["name"] == "0")
+                    {
+                        <li>@Html.ActionLink("LOG out", "home", "login", new { area = "" }, new { @class = "nav-link" })</li>
+                        <li class = "nav-link"> <span>@Session["login"]</span></li>
+                    }
+                    else
+                    {
+                        <li>@Html.ActionLink("LOG In", "index", "login", new { area = "" }, new { @class = "nav-link" })</li>
+                    }
                 </ul>
                 <form class="d-flex">
                     <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
