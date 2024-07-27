@@ -11,7 +11,7 @@ namespace test2.Controllers
         // GET: login
         public ActionResult Index (FormCollection form)
         {
-            Session["login"]= form["email"];
+            Session["login"]= "ابو شهاب";
             string email = form["email"];
             string password = form["password"];
             if (email =="mustafa@gmail.com" && password== "123456")
