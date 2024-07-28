@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\almom\\source\\repos\\dbimg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B608DE71-84C2-43A3-8235-DE815068D2B7}|dbimg\\dbimg.csproj|c:\\users\\almom\\source\\repos\\dbimg\\dbimg\\controllers\\userdetaliscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B608DE71-84C2-43A3-8235-DE815068D2B7}|dbimg\\dbimg.csproj|solutionrelative:dbimg\\controllers\\userdetaliscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B608DE71-84C2-43A3-8235-DE815068D2B7}|dbimg\\dbimg.csproj|c:\\users\\almom\\source\\repos\\dbimg\\dbimg\\views\\userdetalis\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B608DE71-84C2-43A3-8235-DE815068D2B7}|dbimg\\dbimg.csproj|solutionrelative:dbimg\\views\\userdetalis\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B608DE71-84C2-43A3-8235-DE815068D2B7}|dbimg\\dbimg.csproj|c:\\users\\almom\\source\\repos\\dbimg\\dbimg\\views\\userdetalis\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B608DE71-84C2-43A3-8235-DE815068D2B7}|dbimg\\dbimg.csproj|solutionrelative:dbimg\\views\\userdetalis\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\dbimg\\dbimg\\Views\\userdetalis\\Details.cshtml",
+              "RelativeDocumentMoniker": "dbimg\\Views\\userdetalis\\Details.cshtml",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\dbimg\\dbimg\\Views\\userdetalis\\Details.cshtml",
+              "RelativeToolTip": "dbimg\\Views\\userdetalis\\Details.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T12:58:37.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\dbimg\\dbimg\\Views\\userdetalis\\Create.cshtml",
+              "RelativeDocumentMoniker": "dbimg\\Views\\userdetalis\\Create.cshtml",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\dbimg\\dbimg\\Views\\userdetalis\\Create.cshtml",
+              "RelativeToolTip": "dbimg\\Views\\userdetalis\\Create.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T10:34:54.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "userdetalisController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\dbimg\\dbimg\\Controllers\\userdetalisController.cs",
+              "RelativeDocumentMoniker": "dbimg\\Controllers\\userdetalisController.cs",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\dbimg\\dbimg\\Controllers\\userdetalisController.cs",
+              "RelativeToolTip": "dbimg\\Controllers\\userdetalisController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAiwEoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T08:51:53.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

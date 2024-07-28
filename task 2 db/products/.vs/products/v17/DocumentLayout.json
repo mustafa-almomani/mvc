@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\almom\\source\\repos\\products\\",
+  "WorkspaceRootPath": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\task 2 db\\products\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B523957-AE9D-4B9C-9A0A-4C08708A09E2}|products\\products.csproj|c:\\users\\almom\\source\\repos\\products\\products\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B523957-AE9D-4B9C-9A0A-4C08708A09E2}|products\\products.csproj|solutionrelative:products\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B523957-AE9D-4B9C-9A0A-4C08708A09E2}|products\\products.csproj|c:\\users\\almom\\source\\repos\\products\\products\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B523957-AE9D-4B9C-9A0A-4C08708A09E2}|products\\products.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\task 2 db\\products\\products\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B523957-AE9D-4B9C-9A0A-4C08708A09E2}|products\\products.csproj|solutionrelative:products\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B523957-AE9D-4B9C-9A0A-4C08708A09E2}|products\\products.csproj|c:\\users\\almom\\source\\repos\\products\\products\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{7B523957-AE9D-4B9C-9A0A-4C08708A09E2}|products\\products.csproj|solutionrelative:products\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{7B523957-AE9D-4B9C-9A0A-4C08708A09E2}|products\\products.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\task 2 db\\products\\products\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B523957-AE9D-4B9C-9A0A-4C08708A09E2}|products\\products.csproj|solutionrelative:products\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +26,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\products\\products\\Views\\products\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\task 2 db\\products\\products\\Views\\products\\Index.cshtml",
               "RelativeDocumentMoniker": "products\\Views\\products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\almom\\source\\repos\\products\\products\\Views\\products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\task 2 db\\products\\products\\Views\\products\\Index.cshtml",
               "RelativeToolTip": "products\\Views\\products\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-27T00:19:31.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "productsController.cs",
-              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\products\\products\\Controllers\\productsController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\task 2 db\\products\\products\\Controllers\\productsController.cs",
               "RelativeDocumentMoniker": "products\\Controllers\\productsController.cs",
-              "ToolTip": "C:\\Users\\almom\\source\\repos\\products\\products\\Controllers\\productsController.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\task 2 db\\products\\products\\Controllers\\productsController.cs",
               "RelativeToolTip": "products\\Controllers\\productsController.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADUAAAAQAAAA",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAgwGgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T00:19:20.693Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\products\\products\\Models\\Model1.edmx",
-              "RelativeDocumentMoniker": "products\\Models\\Model1.edmx",
-              "ToolTip": "C:\\Users\\almom\\source\\repos\\products\\products\\Models\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "products\\Models\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-07-27T00:17:53.624Z",
-              "EditorCaption": " [Diagram1]"
             }
           ]
         }
