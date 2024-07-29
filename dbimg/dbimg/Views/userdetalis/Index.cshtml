@@ -8,7 +8,7 @@
 <h2>Index</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    @Html.ActionLink("mustafa", "Create")
 </p>
 <table class="table">
     <tr>
@@ -45,7 +45,7 @@
             @Html.DisplayFor(modelItem => item.password)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.img)
+            <img width="100px" height="100px" src="@Html.DisplayFor(modelItem => item.img)" alt="Alternate Text" />
         </td>
         <td>
             @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
