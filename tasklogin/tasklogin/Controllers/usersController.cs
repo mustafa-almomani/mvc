@@ -58,13 +58,15 @@ namespace tasklogin.Controllers
         }
 
         // GET: users/Edit/5
-        public ActionResult Edit(int? id)
+        public ActionResult Edit(int? id , string image)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
+            Session["UserImage1"] = image;
             user user = db.users.Find(Session["UserID"]);
+            //Session["UserImage"] = user.Image;
             if (user == null)
             {
                 return HttpNotFound();
@@ -77,6 +79,8 @@ namespace tasklogin.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Edit(user user, HttpPostedFileBase upload)
         {
+          string x =  Session["UserImage1"].ToString();
+
 
             if (!Directory.Exists(Server.MapPath("~/Images/")))
             {
@@ -97,6 +101,13 @@ namespace tasklogin.Controllers
 
 
                 upload.SaveAs(path);
+                user.Image = fileName;
+            }
+            else if(upload == null)
+            {
+                var fileName = Path.GetFileName(x);
+
+              //  user.Image = Session["UserImage"] as string;
                 user.Image = fileName;
             }
 

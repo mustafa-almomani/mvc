@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\almom\\source\\repos\\tasklogin\\",
+  "WorkspaceRootPath": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|c:\\users\\almom\\source\\repos\\tasklogin\\tasklogin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|solutionrelative:tasklogin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|c:\\users\\almom\\source\\repos\\tasklogin\\tasklogin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|solutionrelative:tasklogin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|c:\\users\\almom\\source\\repos\\tasklogin\\tasklogin\\views\\users\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|solutionrelative:tasklogin\\views\\users\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|c:\\users\\almom\\source\\repos\\tasklogin\\tasklogin\\views\\users\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\views\\users\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|solutionrelative:tasklogin\\views\\users\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|c:\\users\\almom\\source\\repos\\tasklogin\\tasklogin\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|solutionrelative:tasklogin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|solutionrelative:tasklogin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|solutionrelative:tasklogin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\views\\users\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|solutionrelative:tasklogin\\views\\users\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|solutionrelative:tasklogin\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|c:\\users\\almom\\source\\repos\\tasklogin\\tasklogin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|solutionrelative:tasklogin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|c:\\users\\almom\\source\\repos\\tasklogin\\tasklogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3EB1C95E-75FA-4909-930C-6348314CD5C9}|tasklogin\\tasklogin.csproj|solutionrelative:tasklogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,94 +50,101 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\tasklogin\\tasklogin\\Views\\users\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Views\\users\\Edit.cshtml",
               "RelativeDocumentMoniker": "tasklogin\\Views\\users\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\almom\\source\\repos\\tasklogin\\tasklogin\\Views\\users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Views\\users\\Edit.cshtml",
               "RelativeToolTip": "tasklogin\\Views\\users\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T21:03:20.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T21:03:20.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Home.cshtml",
-              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\tasklogin\\tasklogin\\Views\\users\\Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Views\\users\\Home.cshtml",
               "RelativeDocumentMoniker": "tasklogin\\Views\\users\\Home.cshtml",
-              "ToolTip": "C:\\Users\\almom\\source\\repos\\tasklogin\\tasklogin\\Views\\users\\Home.cshtml",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Views\\users\\Home.cshtml",
               "RelativeToolTip": "tasklogin\\Views\\users\\Home.cshtml",
-              "ViewState": "AQIAAMIAAAAAAAAAAAAUwNUAAADYAAAA",
+              "ViewState": "AQIAADUBAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-29T10:31:51.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "signup.cshtml",
-              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\tasklogin\\tasklogin\\Views\\users\\signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Views\\users\\signup.cshtml",
               "RelativeDocumentMoniker": "tasklogin\\Views\\users\\signup.cshtml",
-              "ToolTip": "C:\\Users\\almom\\source\\repos\\tasklogin\\tasklogin\\Views\\users\\signup.cshtml",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Views\\users\\signup.cshtml",
               "RelativeToolTip": "tasklogin\\Views\\users\\signup.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T09:25:22.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "login.cshtml",
-              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\tasklogin\\tasklogin\\Views\\users\\login.cshtml",
-              "RelativeDocumentMoniker": "tasklogin\\Views\\users\\login.cshtml",
-              "ToolTip": "C:\\Users\\almom\\source\\repos\\tasklogin\\tasklogin\\Views\\users\\login.cshtml",
-              "RelativeToolTip": "tasklogin\\Views\\users\\login.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAUwCcAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T09:21:38.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T09:25:22.947Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\tasklogin\\tasklogin\\Views\\users\\Index.cshtml",
-              "RelativeDocumentMoniker": "tasklogin\\Views\\users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\almom\\source\\repos\\tasklogin\\tasklogin\\Views\\users\\Index.cshtml",
-              "RelativeToolTip": "tasklogin\\Views\\users\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Views\\users\\login.cshtml",
+              "RelativeDocumentMoniker": "tasklogin\\Views\\users\\login.cshtml",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Views\\users\\login.cshtml",
+              "RelativeToolTip": "tasklogin\\Views\\users\\login.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwCcAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T09:17:44.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T09:21:38.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Views\\users\\Index.cshtml",
+              "RelativeDocumentMoniker": "tasklogin\\Views\\users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Views\\users\\Index.cshtml",
+              "RelativeToolTip": "tasklogin\\Views\\users\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T09:17:44.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "usersController.cs",
-              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\tasklogin\\tasklogin\\Controllers\\usersController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Controllers\\usersController.cs",
               "RelativeDocumentMoniker": "tasklogin\\Controllers\\usersController.cs",
-              "ToolTip": "C:\\Users\\almom\\source\\repos\\tasklogin\\tasklogin\\Controllers\\usersController.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Controllers\\usersController.cs",
               "RelativeToolTip": "tasklogin\\Controllers\\usersController.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAvwE4AAAAIAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAQwFUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T09:15:54.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "tasklogin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "tasklogin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T07:15:19.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\tasklogin\\tasklogin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "tasklogin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\almom\\source\\repos\\tasklogin\\tasklogin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\tasklogin\\tasklogin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "tasklogin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwBkAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T17:43:03.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T17:43:03.892Z"
             }
           ]
         }
