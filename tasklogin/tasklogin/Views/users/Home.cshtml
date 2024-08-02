@@ -162,7 +162,7 @@
                                     <button class="nav-link active" id="overview-tab" data-bs-toggle="tab" data-bs-target="#overview-tab-pane" type="button" role="tab" aria-controls="overview-tab-pane" aria-selected="true">Overview</button>
                                 </li>
                                 <li class="nav-item" role="presentation">
-                                    <button  class="nav-link"> @Html.ActionLink("Edit Profile", "Edit", new { Model.id })</button>
+                                    <button  class="nav-link"> @Html.ActionLink("Edit Profile", "Edit", new { Model.id, Model.Image })</button>
                                 </li>
                                 <li class="nav-item" role="presentation">
                                     <button class="nav-link" id="email-tab" data-bs-toggle="tab" data-bs-target="#email-tab-pane" type="button" role="tab" aria-controls="email-tab-pane" aria-selected="false">Emails</button>
@@ -211,7 +211,7 @@
                                             <div class="p-2">photo</div>
                                         </div>
                                         <div class="col-7 col-md-9 bg-light border-start border-bottom border-white border-3">
-                                            <div class="p-2">  <img src="@Url.Content("~/Images/" + Session["UserImage"])" alt="User Image" style="width: 70px; height: 70px; border-radius: 50%; margin-left: 10px;" /></div>
+                                            <div class="p-2">  <img src="@Url.Content("~/Images/" + Model.Image)" alt="User Image" style="width: 70px; height: 70px; border-radius: 50%; margin-left: 10px;" /></div>
                                         </div>
 
                                     </div>
