@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\minischool\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\minischool\\views\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\minischool\\views\\minishcool\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\minishcool\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\minischool\\models\\minischoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\models\\minischoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\minischool\\views\\classes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\classes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\minischool\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\minischool\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\minischool\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\minischool\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA721CFA-EA60-4464-B483-AE9628D5DE7D}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Web.config",
+              "RelativeDocumentMoniker": "MiniSchool\\Web.config",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Web.config",
+              "RelativeToolTip": "MiniSchool\\Web.config",
+              "ViewState": "AQIAADAAAAAAAAAAAAAwwEYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-22T06:19:21.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiniSchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Models\\MiniSchoolContext.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Models\\MiniSchoolContext.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Models\\MiniSchoolContext.cs",
+              "RelativeToolTip": "MiniSchool\\Models\\MiniSchoolContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:17:40.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Models\\Classes.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Models\\Classes.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Models\\Classes.cs",
+              "RelativeToolTip": "MiniSchool\\Models\\Classes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:14:40.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Controllers\\AssignmentsController.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Controllers\\AssignmentsController.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Controllers\\AssignmentsController.cs",
+              "RelativeToolTip": "MiniSchool\\Controllers\\AssignmentsController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:00:00.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Views\\Classes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Classes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Views\\Classes\\Delete.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Classes\\Delete.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAMBdwDUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T16:43:52.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Views\\Classes\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Classes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Views\\Classes\\Index.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Classes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T16:34:33.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Controllers\\ClassesController.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "MiniSchool\\Controllers\\ClassesController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:34:29.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Views\\MiniShcool\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\MiniShcool\\Index.cshtml",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Views\\MiniShcool\\Index.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\MiniShcool\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T14:18:45.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\taskcodefirst\\MiniSchool\\Models\\Assignment.cs",
+              "RelativeToolTip": "MiniSchool\\Models\\Assignment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:05:44.54Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 906,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

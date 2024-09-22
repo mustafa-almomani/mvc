@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\dbimg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B608DE71-84C2-43A3-8235-DE815068D2B7}|dbimg\\dbimg.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\dbimg\\dbimg\\views\\userdetalis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B608DE71-84C2-43A3-8235-DE815068D2B7}|dbimg\\dbimg.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\dbimg\\dbimg\\views\\userdetalis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B608DE71-84C2-43A3-8235-DE815068D2B7}|dbimg\\dbimg.csproj|solutionrelative:dbimg\\views\\userdetalis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B608DE71-84C2-43A3-8235-DE815068D2B7}|dbimg\\dbimg.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\dbimg\\dbimg\\controllers\\userdetaliscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B608DE71-84C2-43A3-8235-DE815068D2B7}|dbimg\\dbimg.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\dbimg\\dbimg\\controllers\\userdetaliscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B608DE71-84C2-43A3-8235-DE815068D2B7}|dbimg\\dbimg.csproj|solutionrelative:dbimg\\controllers\\userdetaliscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "dbimg\\Views\\userdetalis\\Index.cshtml",
               "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\task mvc\\task1 mvc\\mvc\\dbimg\\dbimg\\Views\\userdetalis\\Index.cshtml",
               "RelativeToolTip": "dbimg\\Views\\userdetalis\\Index.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAADIAAAA/AAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADIAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-28T14:47:50.891Z",
               "EditorCaption": ""
@@ -79,8 +79,7 @@
               "RelativeToolTip": "dbimg\\Controllers\\userdetalisController.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAAcwBgAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T08:51:53.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T08:51:53.776Z"
             }
           ]
         }
